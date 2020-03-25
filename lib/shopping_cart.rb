@@ -48,6 +48,6 @@ class ShoppingCart
 
   def product_breakdown
     breakdown = Hash.new
-    breakdown[:]
+    
   end
 end
